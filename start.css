@@ -106,3 +106,6 @@ body{
 .generate:active{
     background-color: #3bb0d4;
 }
+.generate:hover{
+    color-scheme: red;
+}
